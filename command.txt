@@ -4,3 +4,4 @@ git log
 git restore
 added own username and email id
 check commit2
+check pull2
